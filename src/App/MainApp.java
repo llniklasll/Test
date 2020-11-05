@@ -21,6 +21,6 @@ public class MainApp {
         JFrame frame = new JFrame("App");
         frame.setContentPane(new MainApp().panelMain);
         frame.pack();
-        frame.setVisible(true);
+        frame.setVisible(false);
     }
 }
