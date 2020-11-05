@@ -22,6 +22,5 @@ public class MainApp {
         frame.setContentPane(new MainApp().panelMain);
         frame.pack();
         frame.setVisible(true);
-        System.out.println("");
     }
 }
